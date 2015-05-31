@@ -20,7 +20,7 @@ switch(lunch){
 	console.log("Pie's not a meal!");
 	break;
 	default:
-	console.log("Huh! I'm not sure what " + lunch " is. How does a sandwich sound?")
+	console.log("Huh! I'm not sure what " + lunch ," is. How does a sandwich sound?");
 }
 
 //The SWTICH setup
